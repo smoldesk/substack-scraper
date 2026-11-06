@@ -1,5 +1,7 @@
 # Substack Scraper
 
+![Substack Scraper](https://raw.githubusercontent.com/smoldesk/apify-scrapers/main/assets/substack/banner.webp)
+
 Scrape Substack newsletters: subscriber counts, paid tiers and prices, author socials and posts with likes and comments. No login, no API key. Runs on [Apify](https://apify.com/smoldesk/substack-scraper).
 
 ## What you get
