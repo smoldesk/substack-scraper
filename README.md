@@ -96,4 +96,4 @@ Set `categories` to a Substack category such as `finance` and `maxPublicationsPe
 
 ## More scrapers
 
-Substack is one of 15 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
+Substack is one of 17 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
