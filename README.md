@@ -131,4 +131,4 @@ Schedule the Actor with the same newsletters. With `trackSubscribers` on (the de
 
 ## More scrapers
 
-Substack is one of 20 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
+Substack is one of 21 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
